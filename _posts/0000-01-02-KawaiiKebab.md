@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide!"
 ---
-Your text
+**Bold** [Github](https://github.com/)
 Use the left arrow to go back
